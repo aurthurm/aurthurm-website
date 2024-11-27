@@ -48,6 +48,7 @@ export default function Home() {
         <title>Aurthur Musendame - Senior Software Engineer</title>
         <meta name="description" content="Personal portfolio of Aurthur Musendame, Senior Software Engineer at NMRL specializing in healthcare systems and open source development." />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <div className="min-h-screen bg-gradient-to-b from-slate-200 to-white flex items-center justify-center">
