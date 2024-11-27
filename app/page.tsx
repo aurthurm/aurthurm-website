@@ -15,7 +15,7 @@ const projects = [
 
 const socialLinks = [
   {
-    href: "https://linkedin.com/in/aurthur.musendame",
+    href: "https://www.linkedin.com/in/aurthurmusendame/",
     icon: <Linkedin className="w-5 h-5" />,
     label: "LinkedIn",
   },
@@ -25,7 +25,7 @@ const socialLinks = [
     label: "GitHub",
   },
   {
-    href: "https://x.com/aurthurmusendame",
+    href: "https://x.com/a_musends",
     icon: <XIcon className="w-5 h-5" />,
     label: "Twitter",
   },
@@ -35,7 +35,7 @@ const socialLinks = [
     label: "Email",
   },
   {
-    href: "https://wwww.beakinsights.com",
+    href: "https://beakinsights.com/",
     icon: <GlobeIcon className="w-5 h-5" />,
     label: "BeakInsights",
   },
