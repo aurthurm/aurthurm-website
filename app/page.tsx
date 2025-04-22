@@ -118,7 +118,7 @@ export default function Home() {
                   I love building things, and as a huge fan of open source, I'm always looking for ways to contribute to the community. 
                   Some of my hobby projects include:{" "}
                   <a 
-                    href="https://github.com/beak-insights/felicity-lims"
+                    href="https://beakinsights.com/works/healthcare/felicity-lims"
                     className="text-blue-600 hover:text-blue-800 font-medium underline italic transition-colors"
                     target="_blank"
                     rel="noopener noreferrer"
@@ -127,7 +127,7 @@ export default function Home() {
                   </a>
                   {", "}
                   <a 
-                    href="https://github.com/beak-insights/felicity-lablink"
+                    href="https://beakinsights.com/works/healthcare/felicity-lablink"
                     className="text-blue-600 hover:text-blue-800 font-medium underline italic transition-colors"
                     target="_blank"
                     rel="noopener noreferrer"
